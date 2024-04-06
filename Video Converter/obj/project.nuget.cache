@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SPKyCvU2oJQnkTSM4nWwW0fnh9cD+8x53iWHRIWY/1KxZUnVlYsxNwQxUcA46a3D3UxyiHDLWdoErBo34bOtQQ==",
+  "dgSpecHash": "mgiUp2eYJLBtRl8TT1+QMwE8R7Na5rzgCgO0ALt+BSEPR+SlxdGWno0ip6U/p3hRD1jG/de9UzhER2eKtCQhAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dcros\\RiderProjects\\Content_Warning-Video_Converter\\Video Converter\\Video Converter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dcros\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512"
+  ],
   "logs": []
 }

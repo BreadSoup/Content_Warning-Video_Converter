@@ -1,20 +1,14 @@
-﻿namespace Video_Converter
+﻿using System;
+using System.Linq;
+using System.Reflection;
+
+namespace Video_Converter
 {
     public static class CustomLocationCompatibility
     {
-        private static bool? _enabled;
-
-        public static bool Enabled
+        public static void Init()
         {
-            get
-            {
-                if (_enabled == null)
-                {
-                    _enabled = BepInEx.Bootstrap.Chainloader.PluginInfos.ContainsKey("com.ramune.CustomVideoSaveLocation");
-                }
-
-                return (bool)_enabled;
-            }
+            //unused for now
         }
     }
 }

@@ -1,6 +1,5 @@
 ﻿using BepInEx;
 using BepInEx.Logging;
-using JetBrains.Annotations;
 
 namespace Video_Converter
 {
@@ -11,24 +10,29 @@ namespace Video_Converter
         private const string ModGuid = "breadsoup.Video_Converter";
         private const string ModName = "Video Converter";
         private const string ModVersion = "1.1.1";
-        [UsedImplicitly] public new static ManualLogSource? Logger;
-        //private const bool Devmode = true; // Set to false when releasing
-        
+        internal new static ManualLogSource? Logger { get; private set; }
+        private const bool Devmode = false; // Set to false when releasing
 
         private void Awake()
         {
+            Logger = base.Logger;
+            
+            Logger.LogInfo("Video Converter loaded");
             Converter.Init();
-            //On.ExtractVideoMachine.CheckState += CheckState; kinda useless and broken for now
+            On.SurfaceNetworkHandler.RPCM_StartGame += RPCM_StartGame;
         }
-        /*private void CheckState(On.ExtractVideoMachine.orig_CheckState orig, ExtractVideoMachine self)
+
+
+        private void RPCM_StartGame(On.SurfaceNetworkHandler.orig_RPCM_StartGame orig, SurfaceNetworkHandler self)
         {
             if (Devmode)
             {
                 SurfaceNetworkHandler.ReturnFromLostWorld();
                 //need to figure out a way to get the video extractor to open and not break
-                UploadVideoStation.FindObjectsOfType<UploadVideoStation>()[0].Unlock();
+                ExtractVideoMachine.FindObjectsOfType<ExtractVideoMachine>()[0].Awake();
+                UploadVideoStation.FindObjectsOfType<UploadVideoStation>()[0].Awake();
             }
             orig(self);
-        }*/
+        }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Video Converter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7521e0d0e8306cb47edd72f48d6915d4082d6c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Video Converter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Video Converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
