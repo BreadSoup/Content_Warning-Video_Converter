@@ -1,0 +1,123 @@
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.AssemblyInfoInputs.cache
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.AssemblyInfo.cs
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.csproj.CoreCompileInputs.cache
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.csproj.AssemblyReference.cache
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.csproj.CopyComplete
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.Core.Runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\SteamAudioUnity.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.Recorder.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.PhotonUtility.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Photon3Unity3D.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonRealtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonVoice.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonVoice.PUN.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.Settings.Runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Localization.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\HBAO.Universal.Runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\sc.posteffects.runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.UI.Runtime.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Splines.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Animation.Rigging.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Sirenix.Serialization.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonChat.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\pworld.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Sirenix.Utilities.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonVoice.API.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.VisualScripting.Core.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonUnityNetworking.Utilities.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Collections.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Sirenix.Serialization.Config.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ContentLoadModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.PropertiesModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.NVIDIAModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Video Converter.deps.json
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Video Converter.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Video Converter.pdb
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.pdb
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MMHOOK_Assembly-CSharp.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
