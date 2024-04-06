@@ -5,12 +5,12 @@ using JetBrains.Annotations;
 namespace Video_Converter
 {
     [BepInPlugin(ModGuid, ModName, ModVersion)]
-    [BepInDependency("com.bepinex.plugin.important")]
+    [BepInDependency("com.ramune.CustomVideoSaveLocation", BepInDependency.DependencyFlags.SoftDependency)]
     public class Plugin : BaseUnityPlugin
     {
         private const string ModGuid = "breadsoup.Video_Converter";
         private const string ModName = "Video Converter";
-        private const string ModVersion = "1.1.0";
+        private const string ModVersion = "1.1.1";
         [UsedImplicitly] public new static ManualLogSource? Logger;
         //private const bool Devmode = true; // Set to false when releasing
         
@@ -20,6 +20,7 @@ namespace Video_Converter
             Converter.Init();
             //On.ExtractVideoMachine.CheckState += CheckState; kinda useless and broken for now
         }
+        
         
         /*private void CheckState(On.ExtractVideoMachine.orig_CheckState orig, ExtractVideoMachine self)
         {
