@@ -25,7 +25,7 @@ namespace Video_Converter
             string inputFilePath;
             if (CustomVideoSaveLocation.Path.Value != "Desktop" && CustomVideoSaveLocation.Path.Value != null && CustomLocationCompatibility.Enabled)
             {
-                inputFilePath = CustomVideoSaveLocation.Path.Value;
+                inputFilePath = Path.Combine(CustomVideoSaveLocation.Path.Value, $"{videoFileName}");
                 Plugin.Logger?.LogInfo("Custom path detected");
             }
             else

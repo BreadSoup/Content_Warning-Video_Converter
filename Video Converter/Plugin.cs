@@ -20,8 +20,6 @@ namespace Video_Converter
             Converter.Init();
             //On.ExtractVideoMachine.CheckState += CheckState; kinda useless and broken for now
         }
-        
-        
         /*private void CheckState(On.ExtractVideoMachine.orig_CheckState orig, ExtractVideoMachine self)
         {
             if (Devmode)

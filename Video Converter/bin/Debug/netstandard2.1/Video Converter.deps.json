@@ -13,7 +13,6 @@
           "BepInEx": "5.4.21.0",
           "MMHOOK_Assembly-CSharp": "0.0.0.0",
           "PhotonUnityNetworking": "0.0.0.0",
-          "Ramune.CustomVideoSaveLocation": "1.0.0.0",
           "UnityEngine.CoreModule": "0.0.0.0",
           "UnityEngine": "0.0.0.0"
         },
@@ -50,14 +49,6 @@
           "PhotonUnityNetworking.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "Ramune.CustomVideoSaveLocation/1.0.0.0": {
-        "runtime": {
-          "Ramune.CustomVideoSaveLocation.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -272,14 +263,6 @@
       "Unity.RenderPipelines.Core.Runtime/0.0.0.0": {
         "runtime": {
           "Unity.RenderPipelines.Core.Runtime.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "Discord/0.0.0.0": {
-        "runtime": {
-          "Discord.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "0.0.0.0"
           }
@@ -929,11 +912,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Ramune.CustomVideoSaveLocation/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
     "UnityEngine.CoreModule/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
@@ -1065,11 +1043,6 @@
       "sha512": ""
     },
     "Unity.RenderPipelines.Core.Runtime/0.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Discord/0.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
