@@ -17,7 +17,6 @@ namespace Video_Converter
         {
             Logger = base.Logger;
             
-            Logger.LogInfo("Video Converter loaded");
             Converter.Init();
             On.SurfaceNetworkHandler.RPCM_StartGame += RPCM_StartGame;
         }

@@ -30,9 +30,6 @@ namespace Video_Converter
                     var configDef = new ConfigDefinition("VideoSaveFolderPath", "Path to the folder to save your videos to");
                     var videoSaveFolderPath = otherModConfig.Bind<string>(configDef, "Desktop").Value;
                     
-                    Plugin.Logger?.LogInfo(configPath);
-                    Plugin.Logger?.LogInfo("CustomVideoSaveLocation: " + videoSaveFolderPath);
-                    
                     if (videoSaveFolderPath != "Desktop" && videoSaveFolderPath != null)
                     {
                         inputFilePath = Path.Combine(videoSaveFolderPath, $"{videoFileName}");
