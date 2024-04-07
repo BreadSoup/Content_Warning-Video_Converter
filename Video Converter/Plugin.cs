@@ -27,7 +27,6 @@ namespace Video_Converter
             if (Devmode)
             {
                 SurfaceNetworkHandler.ReturnFromLostWorld();
-                //need to figure out a way to get the video extractor to open and not break
                 ExtractVideoMachine.FindObjectsOfType<ExtractVideoMachine>()[0].Awake();
                 UploadVideoStation.FindObjectsOfType<UploadVideoStation>()[0].Awake();
             }

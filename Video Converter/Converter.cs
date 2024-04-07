@@ -14,8 +14,7 @@ namespace Video_Converter
             Plugin.Logger?.LogInfo("Converter initialized");
             On.CameraRecording.SaveToDesktop += SaveToDesktop;
         }
-
-        [MethodImpl(MethodImplOptions.NoInlining | MethodImplOptions.NoOptimization)]
+        
         private static bool SaveToDesktop(On.CameraRecording.orig_SaveToDesktop orig, CameraRecording self, out string videoFileName)
         {
             Plugin.Logger?.LogInfo("Beginning conversion process");
