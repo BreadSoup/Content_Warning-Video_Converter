@@ -1,9 +1,12 @@
 ﻿using System;
+using System.Collections;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.CompilerServices;
+using System.Threading.Tasks;
 using BepInEx;
 using BepInEx.Configuration;
+using UnityEngine;
 
 namespace Video_Converter
 {
@@ -63,9 +66,11 @@ namespace Video_Converter
                 process.StartInfo = startInfo;
                 process.Start();
                 process.StandardOutput.ReadToEnd();
-                process.WaitForExit();
             }
-
+            if (CoroutineStarter.Instance != null)
+            {
+                CoroutineStarter.Instance.StartCoroutine(CoroutineStarter.Instance.WaitForFile(outputFilePath, 30));
+            }
             if (File.Exists(outputFilePath))
             {
                 Plugin.Logger?.LogInfo("Conversion successful deleting WEBM");
@@ -78,10 +83,11 @@ namespace Video_Converter
             }
             else
             {
-                Plugin.Logger?.LogError("Conversion failed :(");
+                Plugin.Logger?.LogError("Conversion");
             }
 
             return originalResult;
         }
     }
+    
 }
