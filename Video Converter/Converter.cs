@@ -3,6 +3,7 @@ using System.Collections;
 using System.Diagnostics;
 using System.IO;
 using System.Runtime.CompilerServices;
+using System.Threading;
 using System.Threading.Tasks;
 using BepInEx;
 using BepInEx.Configuration;
@@ -51,7 +52,20 @@ namespace Video_Converter
 
             string outputFilePath = Path.ChangeExtension(inputFilePath, ".mp4"); // changes the extension to .mp4
             string arguments = $"-i \"{inputFilePath}\" \"{outputFilePath}\"";
+            
+            string videoFileNameString = videoFileName; //this is so stupid but the IDE yells at me if I don't do this
+            
+            Thread conversionThread = new Thread(() => ConvertVideo(outputFilePath, 30, ffmpegPath, arguments, inputFilePath, videoFileNameString));
+            conversionThread.Start();
+            
+            return originalResult;
+        }
 
+        private static void ConvertVideo(string outputFilePath, int timeoutInSeconds, string ffmpegPath, string arguments, string inputFilePath, string videoFileName)
+        {
+            Plugin.Logger?.LogInfo("Beginning coroutine");
+            int elapsed = 0;
+            
             ProcessStartInfo startInfo = new ProcessStartInfo
             {
                 FileName = ffmpegPath,
@@ -66,11 +80,9 @@ namespace Video_Converter
                 process.StartInfo = startInfo;
                 process.Start();
                 process.StandardOutput.ReadToEnd();
+                process.WaitForExit();
             }
-            if (CoroutineStarter.Instance != null)
-            {
-                CoroutineStarter.Instance.StartCoroutine(CoroutineStarter.Instance.WaitForFile(outputFilePath, 30));
-            }
+            
             if (File.Exists(outputFilePath))
             {
                 Plugin.Logger?.LogInfo("Conversion successful deleting WEBM");
@@ -81,12 +93,14 @@ namespace Video_Converter
                     File.Delete(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), videoFileName));
                 }
             }
+            else if (elapsed >= timeoutInSeconds)
+            {
+                Plugin.Logger?.LogError("Conversion timed out");
+            }
             else
             {
-                Plugin.Logger?.LogError("Conversion");
+                Plugin.Logger?.LogError("Conversion Failed");
             }
-
-            return originalResult;
         }
     }
     

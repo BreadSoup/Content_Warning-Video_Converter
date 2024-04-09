@@ -66,26 +66,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dcros\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\dcros\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dcros\\RiderProjects\\Content_Warning-Video_Converter\\Video Converter\\Video Converter.csproj",
+      "projectUniqueName": "C:\\Users\\dcros\\RiderProjects\\Video Converter\\Video Converter\\Video Converter.csproj",
       "projectName": "Video Converter",
-      "projectPath": "C:\\Users\\dcros\\RiderProjects\\Content_Warning-Video_Converter\\Video Converter\\Video Converter.csproj",
+      "projectPath": "C:\\Users\\dcros\\RiderProjects\\Video Converter\\Video Converter\\Video Converter.csproj",
       "packagesPath": "C:\\Users\\dcros\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dcros\\RiderProjects\\Content_Warning-Video_Converter\\Video Converter\\obj\\",
+      "outputPath": "C:\\Users\\dcros\\RiderProjects\\Video Converter\\Video Converter\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\dcros\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

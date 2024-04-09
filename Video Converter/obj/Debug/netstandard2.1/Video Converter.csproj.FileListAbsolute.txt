@@ -248,3 +248,6 @@ C:\Users\dcros\RiderProjects\Content_Warning-Video_Converter\Video Converter\obj
 C:\Users\dcros\RiderProjects\Content_Warning-Video_Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.pdb
 C:\Users\dcros\RiderProjects\Content_Warning-Video_Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.IgnoresAccessChecksTo.cs
 C:\Users\dcros\RiderProjects\Content_Warning-Video_Converter\Video Converter\bin\Debug\netstandard2.1\Ramune.CustomVideoSaveLocation.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.IgnoresAccessChecksTo.cs
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.sourcelink.json
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Discord.dll
