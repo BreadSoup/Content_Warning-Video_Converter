@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections;
 using System.Diagnostics;
 using System.IO;
-using System.Runtime.CompilerServices;
 using System.Threading;
-using System.Threading.Tasks;
 using BepInEx;
 using BepInEx.Configuration;
-using UnityEngine;
 
 namespace Video_Converter
 {
@@ -54,10 +50,16 @@ namespace Video_Converter
             string arguments = $"-i \"{inputFilePath}\" \"{outputFilePath}\"";
             
             string videoFileNameString = videoFileName; //this is so stupid but the IDE yells at me if I don't do this
-            
-            Thread conversionThread = new Thread(() => ConvertVideo(outputFilePath, 30, ffmpegPath, arguments, inputFilePath, videoFileNameString));
-            conversionThread.Start();
-            
+            if (!File.Exists(outputFilePath)) // check if the user saves the file twice
+            {
+                Thread conversionThread = new Thread(() => ConvertVideo(outputFilePath, 30, ffmpegPath, arguments, inputFilePath, videoFileNameString));
+                conversionThread.Start();
+            }
+            else
+            {
+                File.Delete(inputFilePath);
+            }
+
             return originalResult;
         }
 

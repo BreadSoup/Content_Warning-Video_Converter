@@ -11,7 +11,7 @@ namespace Video_Converter
         private const string ModName = "Video Converter";
         private const string ModVersion = "1.1.2";
         internal new static ManualLogSource? Logger { get; private set; }
-        private const bool Devmode = true; // Set to false when releasing
+        private const bool Devmode = false; // Set to false when releasing
 
         private void Awake()
         {
