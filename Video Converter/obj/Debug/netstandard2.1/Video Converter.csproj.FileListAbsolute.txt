@@ -13,7 +13,6 @@ C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstanda
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\PhotonUnityNetworking.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.Core.Runtime.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
-C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\SteamAudioUnity.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.Recorder.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Zorro.PhotonUtility.dll
@@ -110,11 +109,6 @@ C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstanda
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Sirenix.OdinInspector.Attributes.dll
-C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Video Converter.deps.json
-C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Video Converter.dll
-C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Video Converter.pdb
-C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.dll
-C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.pdb
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\BepInEx.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MMHOOK_Assembly-CSharp.dll
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\BepInEx.xml
@@ -251,3 +245,9 @@ C:\Users\dcros\RiderProjects\Content_Warning-Video_Converter\Video Converter\bin
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.IgnoresAccessChecksTo.cs
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Video Converter.sourcelink.json
 C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Discord.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\MMHOOK_Zorro.Recorder.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Infinite Camera.deps.json
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Infinite Camera.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\bin\Debug\netstandard2.1\Infinite Camera.pdb
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Infinite Camera.dll
+C:\Users\dcros\RiderProjects\Video Converter\Video Converter\obj\Debug\netstandard2.1\Infinite Camera.pdb
